@@ -34,9 +34,16 @@ You can also run it with additional arguments:
 nix run github:nix-php/template -- --version
 ```
 
+You can also run a specific version or branch:
+
 ```bash
-nix run github:nix-php/template -- --help
+nix run github:nix-php/template#1.2.3  -- --version
+nix run github:nix-php/template#main  -- --version
 ```
+
+> [!NOTE]
+>
+> Replace `1.2.3` with the desired version, or `main` with any branch name.
 
 ### Star ⭐️ this repo if you find it useful
 
