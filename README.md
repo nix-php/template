@@ -5,13 +5,15 @@
 
 A [`Nix`](https://nixos.wiki/wiki/Nix) [`flake`](https://nixos.wiki/wiki/Flakes) for [`Package`](https://github.com/vendor/package)
 
-work in progress
-
 > [!WARNING]
 >
 > This project is not finished yet, work in progress.
 
 ---
+
+**Star ⭐️ this repo if you find it useful**
+ 
+You can also star (🌟) this repo to find it easier later.
 
 - **Description:** template description, derived from GitHub repository description.
 - **Homepage:** [https://github.com/ghostwriter](https://github.com/ghostwriter) | **Repository:** [https://github.com/vendor/template](https://github.com/vendor/template)
@@ -44,10 +46,6 @@ You can also run a specific version or branch:
 nix run github:nix-php/template#1.2.3  -- --version
 nix run github:nix-php/template#main  -- --version
 ```
-
-### Star ⭐️ this repo if you find it useful
-
-You can also star (🌟) this repo to find it easier later.
 
 ### Credits
 
