@@ -2,6 +2,8 @@
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@nix-php/template&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
 [![Automation](https://github.com/nix-php/template/actions/workflows/automation.yml/badge.svg)](https://github.com/nix-php/template/actions/workflows/automation.yml)
+[![Supported PHP Version](https://badgen.net/packagist/php/nix-php/template?color=8892bf)](https://www.php.net/supported-versions)
+[![Downloads](https://badgen.net/packagist/dt/nix-php/template?color=blue)](https://packagist.org/packages/nix-php/template)
 
 A [`Nix`](https://nixos.wiki/wiki/Nix) [`flake`](https://nixos.wiki/wiki/Flakes) for [`Package`](https://github.com/vendor/package)
 
