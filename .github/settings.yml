@@ -3,7 +3,6 @@
   "description": "[WIP] Nix flake exposing the `template` PHP CLI application"
   "homepage": "https://github.com/nix-php/template"
   "topics": "ghostwriter, nix-php, template, template-repository"
-  "private": false
   "has_issues": true
   "has_projects": false
   "has_wiki": false
