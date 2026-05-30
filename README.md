@@ -1,7 +1,8 @@
 # Template
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@nix-php/template&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
 [![Automation](https://github.com/nix-php/template/actions/workflows/automation.yml/badge.svg)](https://github.com/nix-php/template/actions/workflows/automation.yml)
+[![PayPal](https://img.shields.io/badge/paypal-@codepoet-0079C1?logo=paypal&logoColor=002991)](https://paypal.me/codepoet)
+[![Sponsors via GitHub](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@nix-php/template&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
 
 A [`Nix`](https://nixos.wiki/wiki/Nix) [`flake`](https://nixos.wiki/wiki/Flakes) for [`Package`](https://github.com/vendor/package)
 
